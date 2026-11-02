@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Entre líneas · Inglés en historias</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta
+      name="description"
+      content="Aprende inglés leyendo historias breves: cada frase en español y, debajo, en inglés."
+    />
+    <meta name="theme-color" content="#f7f7f5" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#182731" media="(prefers-color-scheme: dark)" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png" />
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Entre líneas" />
+    <script>
+      // Fija la apariencia antes del primer pintado para evitar un destello claro en modo oscuro.
+      (function () {
+        try {
+          var saved = JSON.parse(localStorage.getItem('entre-lineas:v1:prefs') || 'null');
+          var choice = saved && saved.theme;
+          var dark =
+            choice === 'dark' ||
+            ((choice === 'system' || !choice) && matchMedia('(prefers-color-scheme: dark)').matches);
+          document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <app-root></app-root>
+    <noscript>Entre líneas necesita JavaScript para mostrar las historias.</noscript>
+  </body>
+</html>

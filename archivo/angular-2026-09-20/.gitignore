@@ -1,0 +1,13 @@
+# Dependencias y compilación
+node_modules/
+dist/
+.angular/
+coverage/
+out-tsc/
+
+# Sistema
+.DS_Store
+
+# Worktrees de sesiones de Claude: contienen copias de otros proyectos y nunca deben publicarse
+.claude/worktrees/
+.claude/settings.local.json

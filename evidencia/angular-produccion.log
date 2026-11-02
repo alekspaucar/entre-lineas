@@ -1,0 +1,21 @@
+
+> entre-lineas@0.0.0 build
+> ng build
+
+❯ Building...
+✔ Building...
+Initial chunk files | Names         |  Raw size | Estimated transfer size
+main-RIF6WAR6.js    | main          | 245.09 kB |                67.21 kB
+styles-LJ574TXZ.css | styles        |   2.47 kB |               968 bytes
+
+                    | Initial total | 247.56 kB |                68.17 kB
+
+Lazy chunk files    | Names         |  Raw size | Estimated transfer size
+chunk-Ij9yrw5m.js   | reader-page   |  33.31 kB |                 9.51 kB
+chunk-DUUNFGUT.js   | -             |  14.48 kB |                 5.06 kB
+chunk-D-T546Du.js   | library-page  |   6.53 kB |                 2.31 kB
+
+Application bundle generation complete. [1.372 seconds] - 2026-11-02T16:51:11.307Z
+
+Output location: /Users/erickvzh/Documents/ChatGPT/ingeniero en sistemas/recuperacion/Entre-lineas/dist/entre-lineas
+

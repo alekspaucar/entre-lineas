@@ -1,0 +1,57 @@
+@if (notFound) {
+  <div class="not-found">
+    <p class="kicker">Historia no encontrada</p>
+    <h1>No existe esta historia</h1>
+    <a routerLink="/" class="btn btn--solid">Volver a la biblioteca</a>
+  </div>
+} @else if (store.story(); as story) {
+  <div class="reader" [class.is-listening]="store.mode() !== 'idle'">
+    <article class="story" aria-labelledby="story-title">
+      <header class="title-page">
+        <nav class="breadcrumb" aria-label="Navegación">
+          <a routerLink="/" class="back-link">
+            <svg viewBox="0 0 12 12" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M8 2L4 6l4 4"/>
+            </svg>
+            Biblioteca
+          </a>
+        </nav>
+        <p class="kicker">Historia {{ number() }} · Nivel {{ story.level }}</p>
+        <h1 id="story-title">{{ story.title }}</h1>
+        <p class="subtitle">{{ story.subtitle }}</p>
+
+        <p class="meta">
+          ≈ {{ story.minutes }} min · {{ store.markedWords().length }} palabras marcadas
+        </p>
+        <p class="hint">
+          Toca una palabra subrayada para ver su significado entre líneas. Toca
+          <span aria-hidden="true">▸</span><span class="sr-only">el botón de audio</span> para oír la
+          frase.
+        </p>
+      </header>
+
+      <div class="lines">
+        @for (line of store.lines(); track line.index) {
+          <app-line-pair
+            [line]="line"
+            [mode]="prefs.spanishMode()"
+            [playing]="store.playingIndex() === line.index"
+            [durationMs]="store.estimatedMs(line.en)"
+            (play)="store.playLine($event)"
+            (lookup)="store.addNote($event)"
+          />
+        }
+      </div>
+
+      <app-speaking-practice />
+    </article>
+
+    <app-margin-panel />
+  </div>
+
+  <app-player-bar />
+
+  @if (store.audioProblem(); as problem) {
+    <p class="toast" role="alert">{{ problem }}</p>
+  }
+}

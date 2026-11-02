@@ -1,0 +1,22 @@
+{
+  "checks": [
+    {
+      "check": "angular-pruebas",
+      "exit_code": 1,
+      "log": "evidencia/angular-pruebas.log"
+    },
+    {
+      "check": "angular-produccion",
+      "exit_code": 0,
+      "log": "evidencia/angular-produccion.log"
+    },
+    {
+      "check": "vanilla-pruebas",
+      "exit_code": 0,
+      "log": "evidencia/vanilla-pruebas.log"
+    }
+  ],
+  "node": "24.21.0",
+  "network": "offline dependency installation; no downloads",
+  "dependencies": "380 packages installed from the pre-existing local npm cache; lifecycle scripts disabled"
+}

@@ -1,0 +1,3078 @@
+{
+  "sources": {
+    "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl": {
+      "sha256": "6f6aa106e3c9655968bf3a021aaee46dfcc0d94adfa7c4a66304f6817c97c83a",
+      "bytes": 3662867
+    },
+    "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl": {
+      "sha256": "17624930fbb53ac687b8bdc3f12176bfcffc31738c0450b21146114ae859fde1",
+      "bytes": 446737
+    },
+    "/Users/erickvzh/.npm/_cacache/content-v2/sha512/d4/9c/3bc6f39ca06c81f379710769c6e1b7cd6eab57dbf4d36dd87db0700e994d3ae12be649dba50ed039441bb925859feb87dd68a5fbc54fb3dc63b54f66c21c": {
+      "sha256": "6511fb89c1b68ad10a422204580984dd3e27a129edc4cd015ee342f06a8fe4ac",
+      "bytes": 1859304,
+      "cache_key": "make-fetch-happen:request-cache:https://registry.npmjs.org/@fontsource-variable/literata/-/literata-5.3.0.tgz",
+      "integrity": "sha512-1Jw7xvOcoGyB83lxB2nG4bfNbqtX2/TTbdh9sHAOmU064SvmSdulDtA5RBu5JYWf64fdaKX7xU+z3GO1T2bCHA=="
+    }
+  },
+  "files": {
+    "archivo/prototipo-vanilla/README.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 76,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "eb24bf8129461f4ff30b0ea0ff2e690a1c9c629482a734898eb5afef04812f48",
+          "bytes": 3146,
+          "detail": {
+            "call_line": 72
+          }
+        }
+      ],
+      "sha256": "eb24bf8129461f4ff30b0ea0ff2e690a1c9c629482a734898eb5afef04812f48",
+      "bytes": 3146,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/styles.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 77,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "5d68135c2ae131ea09d2d7c3b2eeffc05dc17cf47a16e431d90fcaa13bdf3887",
+          "bytes": 4817,
+          "detail": {
+            "call_line": 74
+          }
+        }
+      ],
+      "sha256": "5d68135c2ae131ea09d2d7c3b2eeffc05dc17cf47a16e431d90fcaa13bdf3887",
+      "bytes": 4817,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/index.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 78,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "665e37e905c31006feb27caeacd3a0100416d90eff02f0bb7a76e1d0a9c88841",
+          "bytes": 2761,
+          "detail": {
+            "call_line": 73
+          }
+        }
+      ],
+      "sha256": "665e37e905c31006feb27caeacd3a0100416d90eff02f0bb7a76e1d0a9c88841",
+      "bytes": 2761,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/app.mjs": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 80,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "25b46d3f223b25f8e03b84c947a567e3967c8f53ccec2bb4586cce3730d79830",
+          "bytes": 3916,
+          "detail": {
+            "call_line": 79
+          }
+        }
+      ],
+      "sha256": "25b46d3f223b25f8e03b84c947a567e3967c8f53ccec2bb4586cce3730d79830",
+      "bytes": 3916,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/reader.mjs": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 82,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "f7131a256dca463402785e152f06ae4e3c1a38d44caa7c13556b4f8ce48b48a2",
+          "bytes": 2488,
+          "detail": {
+            "call_line": 81
+          }
+        }
+      ],
+      "sha256": "f7131a256dca463402785e152f06ae4e3c1a38d44caa7c13556b4f8ce48b48a2",
+      "bytes": 2488,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/manifest.webmanifest": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 90,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "222e76530e16b6976cc5615584f2416028f0cc6242fd2b272460b798451cf676",
+          "bytes": 339,
+          "detail": {
+            "call_line": 89
+          }
+        }
+      ],
+      "sha256": "222e76530e16b6976cc5615584f2416028f0cc6242fd2b272460b798451cf676",
+      "bytes": 339,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/service-worker.js": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 92,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "6f71af0f122dd8061390f7d47264e2e214ac7ffc172dc29bbf2cf065efa49b3e",
+          "bytes": 694,
+          "detail": {
+            "call_line": 91
+          }
+        }
+      ],
+      "sha256": "6f71af0f122dd8061390f7d47264e2e214ac7ffc172dc29bbf2cf065efa49b3e",
+      "bytes": 694,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/icon.svg": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 94,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "c9862cfbf4277786649790e6eb514bf90895162529a311e66bfaa71b6a525618",
+          "bytes": 312,
+          "detail": {
+            "call_line": 93
+          }
+        }
+      ],
+      "sha256": "c9862cfbf4277786649790e6eb514bf90895162529a311e66bfaa71b6a525618",
+      "bytes": 312,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/test/reader.test.mjs": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 96,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "dc23ae1ed160f8496ddf1a2307be16c6c7b8b641f09d32403172a6a08701bb8e",
+          "bytes": 1482,
+          "detail": {
+            "call_line": 95
+          }
+        }
+      ],
+      "sha256": "dc23ae1ed160f8496ddf1a2307be16c6c7b8b641f09d32403172a6a08701bb8e",
+      "bytes": 1482,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "archivo/prototipo-vanilla/docs/PLAN-MAESTRO.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 98,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "c10b796df2315ab2f04cff82a52e73b466c1ffdef7095aa6dbd8161b320d7741",
+          "bytes": 4933,
+          "detail": {
+            "call_line": 97
+          }
+        }
+      ],
+      "sha256": "c10b796df2315ab2f04cff82a52e73b466c1ffdef7095aa6dbd8161b320d7741",
+      "bytes": 4933,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "docs/PLAN-MAESTRO.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 98,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "c10b796df2315ab2f04cff82a52e73b466c1ffdef7095aa6dbd8161b320d7741",
+          "bytes": 4933
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 9,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "d64dcdec40e05e07ff0acc3e510afab0f6299933c7e21e02fa27ba6fca3b4ac3",
+          "bytes": 4932,
+          "detail": {
+            "total_lines": 83,
+            "reported_bytes": 4932
+          }
+        }
+      ],
+      "sha256": "d64dcdec40e05e07ff0acc3e510afab0f6299933c7e21e02fa27ba6fca3b4ac3",
+      "bytes": 4932,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "archivo/prototipo-vanilla/docs/ESTRUCTURA-FUTURA.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 100,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "3c212ba95eebb30e3cdb66129e8d809d12bc89ba23b776e7a8881e85a3b330bd",
+          "bytes": 4460,
+          "detail": {
+            "call_line": 99
+          }
+        }
+      ],
+      "sha256": "3c212ba95eebb30e3cdb66129e8d809d12bc89ba23b776e7a8881e85a3b330bd",
+      "bytes": 4460,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "docs/ESTRUCTURA-FUTURA.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 100,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "3c212ba95eebb30e3cdb66129e8d809d12bc89ba23b776e7a8881e85a3b330bd",
+          "bytes": 4460
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 12,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "42765af6f315cc3d137f1f2d8ef10c39ccd3f4724775be2a0e344954e73537a9",
+          "bytes": 4678,
+          "detail": {
+            "total_lines": 126,
+            "reported_bytes": 4678
+          }
+        }
+      ],
+      "sha256": "42765af6f315cc3d137f1f2d8ef10c39ccd3f4724775be2a0e344954e73537a9",
+      "bytes": 4678,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "archivo/prototipo-vanilla/docs/HOJA-DE-RUTA.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 102,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "281d4c7bd927c35100326b538ebf903b7acd0ca759af0798902b5bd1c2748003",
+          "bytes": 3721,
+          "detail": {
+            "call_line": 101
+          }
+        }
+      ],
+      "sha256": "281d4c7bd927c35100326b538ebf903b7acd0ca759af0798902b5bd1c2748003",
+      "bytes": 3721,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "docs/HOJA-DE-RUTA.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 102,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "281d4c7bd927c35100326b538ebf903b7acd0ca759af0798902b5bd1c2748003",
+          "bytes": 3721
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 10,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "441372e8d2e6e8a8589a1e17d3b8747507f662d70821ebc6638e81b12c5b3844",
+          "bytes": 3720,
+          "detail": {
+            "total_lines": 78,
+            "reported_bytes": 3720
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 106,
+          "method": "recorded_write",
+          "sha256": "07bdff56cafdac3a24998b77270aa561b9da906b4c83480024a7dacaddbacb6a",
+          "bytes": 4084
+        }
+      ],
+      "sha256": "07bdff56cafdac3a24998b77270aa561b9da906b4c83480024a7dacaddbacb6a",
+      "bytes": 4084,
+      "latest_method": "recorded_write"
+    },
+    "archivo/prototipo-vanilla/docs/README.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 104,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "d6e0519aadf4fc32196feaac51d88fa57089a221615cde7cba8e3255d6de9c5e",
+          "bytes": 816,
+          "detail": {
+            "call_line": 103
+          }
+        }
+      ],
+      "sha256": "d6e0519aadf4fc32196feaac51d88fa57089a221615cde7cba8e3255d6de9c5e",
+      "bytes": 816,
+      "latest_method": "complete_read_normalized_final_newline"
+    },
+    "docs/README.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 104,
+          "method": "complete_read_normalized_final_newline",
+          "sha256": "d6e0519aadf4fc32196feaac51d88fa57089a221615cde7cba8e3255d6de9c5e",
+          "bytes": 816
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 38,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "dfbb71ca72efc4a9d18578a69fe710b696e96acbc51364edef8d8165e572b821",
+          "bytes": 920,
+          "detail": {
+            "total_lines": 13,
+            "reported_bytes": 920
+          }
+        }
+      ],
+      "sha256": "dfbb71ca72efc4a9d18578a69fe710b696e96acbc51364edef8d8165e572b821",
+      "bytes": 920,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    ".gitignore": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 162,
+          "method": "recorded_write",
+          "sha256": "65368081ae0c2c45a9c5dc13832070ea62ce7da64c03a1c128bebd7425634c6e",
+          "bytes": 244
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 188,
+          "method": "recorded_write",
+          "sha256": "65368081ae0c2c45a9c5dc13832070ea62ce7da64c03a1c128bebd7425634c6e",
+          "bytes": 244
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 192,
+          "method": "recorded_heredoc",
+          "sha256": "65368081ae0c2c45a9c5dc13832070ea62ce7da64c03a1c128bebd7425634c6e",
+          "bytes": 244
+        }
+      ],
+      "sha256": "65368081ae0c2c45a9c5dc13832070ea62ce7da64c03a1c128bebd7425634c6e",
+      "bytes": 244,
+      "latest_method": "recorded_heredoc"
+    },
+    "angular.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "recorded_scaffold_output",
+          "sha256": "95ebe82cc7ae3994b6888582cb0fd4ac1cd674cbe8573802f6646beb4d900b04",
+          "bytes": 1921
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 257,
+          "method": "reassembled_recorded_configuration_change",
+          "sha256": "06f207242c5ff2fda687ab0a8216dd658a5fe6c0f5df32973d6f237c1176807b",
+          "bytes": 1972
+        }
+      ],
+      "sha256": "06f207242c5ff2fda687ab0a8216dd658a5fe6c0f5df32973d6f237c1176807b",
+      "bytes": 1972,
+      "latest_method": "reassembled_recorded_configuration_change"
+    },
+    "tsconfig.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "recorded_scaffold_output",
+          "sha256": "3c3b6c2138f0a910f5284e1d64e9fc213af2b91409fdeaf5598ff495c28f79c2",
+          "bytes": 908
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 257,
+          "method": "reassembled_recorded_configuration_change",
+          "sha256": "24a0ac559e994d126945e7ea4b5c6abb81f91db11722a6bb496d1f610a12bd11",
+          "bytes": 966
+        }
+      ],
+      "sha256": "24a0ac559e994d126945e7ea4b5c6abb81f91db11722a6bb496d1f610a12bd11",
+      "bytes": 966,
+      "latest_method": "reassembled_recorded_configuration_change"
+    },
+    "tsconfig.app.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "recorded_scaffold_output",
+          "sha256": "12e2786b56cc873a4e91f822894cc541082d16b90c0d7280aa5512469627d23f",
+          "bytes": 398
+        }
+      ],
+      "sha256": "12e2786b56cc873a4e91f822894cc541082d16b90c0d7280aa5512469627d23f",
+      "bytes": 398,
+      "latest_method": "recorded_scaffold_output"
+    },
+    "tsconfig.spec.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "recorded_scaffold_output",
+          "sha256": "958fd251a505c5d54d94d2694b8fde3d1c71aa244b522e3e053db1ac5b987dd0",
+          "bytes": 409
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 257,
+          "method": "reassembled_recorded_configuration_change",
+          "sha256": "d1d855ebf48c1f63ed89e678e89e2ae85011322e92910255c85e9df104c239de",
+          "bytes": 423
+        }
+      ],
+      "sha256": "d1d855ebf48c1f63ed89e678e89e2ae85011322e92910255c85e9df104c239de",
+      "bytes": 423,
+      "latest_method": "reassembled_recorded_configuration_change"
+    },
+    "src/main.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "recorded_scaffold_output",
+          "sha256": "2341253f1a947c37dfa27838951cf7e224f7abb32dff45a8d425f042b5eeed13",
+          "bytes": 222
+        }
+      ],
+      "sha256": "2341253f1a947c37dfa27838951cf7e224f7abb32dff45a8d425f042b5eeed13",
+      "bytes": 222,
+      "latest_method": "recorded_scaffold_output"
+    },
+    ".prettierrc": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "recorded_scaffold_output",
+          "sha256": "8cd4a6408c3eadd007f0e8986754f4f03e6f2ea451a0181040555671491069a9",
+          "bytes": 161
+        }
+      ],
+      "sha256": "8cd4a6408c3eadd007f0e8986754f4f03e6f2ea451a0181040555671491069a9",
+      "bytes": 161,
+      "latest_method": "recorded_scaffold_output"
+    },
+    "public/favicon.svg": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 240,
+          "method": "recorded_heredoc",
+          "sha256": "81607dc272148e7a7dd62bb47c9e0ef68fc55f6d78e441e2d8b7ec8ef95f1b41",
+          "bytes": 436
+        }
+      ],
+      "sha256": "81607dc272148e7a7dd62bb47c9e0ef68fc55f6d78e441e2d8b7ec8ef95f1b41",
+      "bytes": 436,
+      "latest_method": "recorded_heredoc"
+    },
+    "public/icons/icon-512.png": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 250,
+          "method": "recorded_image_base64",
+          "sha256": "48a32515bb943d6c67fc32317be453ab7b1314d6addcd14a7bee15b6575859c7",
+          "bytes": 4111
+        }
+      ],
+      "sha256": "48a32515bb943d6c67fc32317be453ab7b1314d6addcd14a7bee15b6575859c7",
+      "bytes": 4111,
+      "latest_method": "recorded_image_base64"
+    },
+    "src/app/features/reader/story.model.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 261,
+          "method": "recorded_write",
+          "sha256": "fe5a3cbaee3c4079fe4b13850702e8709a6b6d6304b8f371521351a0cbdcaf35",
+          "bytes": 1410
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "fe5a3cbaee3c4079fe4b13850702e8709a6b6d6304b8f371521351a0cbdcaf35",
+          "bytes": 1410
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 16,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "fe5a3cbaee3c4079fe4b13850702e8709a6b6d6304b8f371521351a0cbdcaf35",
+          "bytes": 1410,
+          "detail": {
+            "total_lines": 41,
+            "reported_bytes": 1410
+          }
+        }
+      ],
+      "sha256": "fe5a3cbaee3c4079fe4b13850702e8709a6b6d6304b8f371521351a0cbdcaf35",
+      "bytes": 1410,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/tokenize.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 263,
+          "method": "recorded_write",
+          "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+          "bytes": 1028
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+          "bytes": 1028
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 30,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+          "bytes": 1028,
+          "detail": {
+            "total_lines": 28,
+            "reported_bytes": 1028
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 135,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+          "bytes": 1028,
+          "detail": {
+            "total_lines": 28,
+            "reported_bytes": 1028
+          }
+        }
+      ],
+      "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+      "bytes": 1028,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/content/starter-stories/cafe-antes-del-codigo.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 265,
+          "method": "recorded_write",
+          "sha256": "9575186fabd19036fbbf29da20b3c4f3ddae88a8064d3a2ac9ef4a6cafc6ecd8",
+          "bytes": 2687
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "9575186fabd19036fbbf29da20b3c4f3ddae88a8064d3a2ac9ef4a6cafc6ecd8",
+          "bytes": 2687
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 17,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "9575186fabd19036fbbf29da20b3c4f3ddae88a8064d3a2ac9ef4a6cafc6ecd8",
+          "bytes": 2687,
+          "detail": {
+            "total_lines": 75,
+            "reported_bytes": 2687
+          }
+        }
+      ],
+      "sha256": "9575186fabd19036fbbf29da20b3c4f3ddae88a8064d3a2ac9ef4a6cafc6ecd8",
+      "bytes": 2687,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/core/storage.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 267,
+          "method": "recorded_write",
+          "sha256": "823010f7bfdb4bbe2e81ddf96b909df1380479e28cd0d453927fad8cce058a4b",
+          "bytes": 826
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "823010f7bfdb4bbe2e81ddf96b909df1380479e28cd0d453927fad8cce058a4b",
+          "bytes": 826
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 121,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "823010f7bfdb4bbe2e81ddf96b909df1380479e28cd0d453927fad8cce058a4b",
+          "bytes": 826,
+          "detail": {
+            "total_lines": 29,
+            "reported_bytes": 826
+          }
+        }
+      ],
+      "sha256": "823010f7bfdb4bbe2e81ddf96b909df1380479e28cd0d453927fad8cce058a4b",
+      "bytes": 826,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/core/preferences.service.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 269,
+          "method": "recorded_write",
+          "sha256": "9023ff45dceeb55d6a1a49d4a0313a46df473e7732f79fa14581f5bfb3adf2a8",
+          "bytes": 3177
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "9023ff45dceeb55d6a1a49d4a0313a46df473e7732f79fa14581f5bfb3adf2a8",
+          "bytes": 3177
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 21,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "8b4e7761e30ea9caf9e1f0339af8df292d9d707fa0054116510114c246694035",
+          "bytes": 3183,
+          "detail": {
+            "total_lines": 88,
+            "reported_bytes": 3183
+          }
+        }
+      ],
+      "sha256": "8b4e7761e30ea9caf9e1f0339af8df292d9d707fa0054116510114c246694035",
+      "bytes": 3183,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/shared/audio/speech.service.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 271,
+          "method": "recorded_write",
+          "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+          "bytes": 5019
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+          "bytes": 5019
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 31,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+          "bytes": 5019,
+          "detail": {
+            "total_lines": 131,
+            "reported_bytes": 5019
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 138,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+          "bytes": 5019,
+          "detail": {
+            "total_lines": 131,
+            "reported_bytes": 5019
+          }
+        }
+      ],
+      "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+      "bytes": 5019,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/reader.store.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 273,
+          "method": "recorded_write",
+          "sha256": "59a9cb90b23c146e2b7c3d5d33d67335490a26ceb4f349314f07dbc21a032061",
+          "bytes": 4456
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "recorded_heredoc",
+          "sha256": "59a9cb90b23c146e2b7c3d5d33d67335490a26ceb4f349314f07dbc21a032061",
+          "bytes": 4456
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 14,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "ebf635a924fb2c14d91299b139e4ecd1ebb0ca9a401ccacc0315d45b04da228b",
+          "bytes": 4462,
+          "detail": {
+            "total_lines": 125,
+            "reported_bytes": 4462
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 58,
+          "method": "recorded_write",
+          "sha256": "0918706e8ffd3346cbc42ea604dfa6f6c881631182703d4c9b84968d915bf31d",
+          "bytes": 5247
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 114,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "0918706e8ffd3346cbc42ea604dfa6f6c881631182703d4c9b84968d915bf31d",
+          "bytes": 5247,
+          "detail": {
+            "total_lines": 159,
+            "reported_bytes": 5247
+          }
+        }
+      ],
+      "sha256": "0918706e8ffd3346cbc42ea604dfa6f6c881631182703d4c9b84968d915bf31d",
+      "bytes": 5247,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/index.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "5ea87e935698c01f25b8c0baf51107a37f9eb41121c41672369efbd064178248",
+          "bytes": 1744
+        }
+      ],
+      "sha256": "5ea87e935698c01f25b8c0baf51107a37f9eb41121c41672369efbd064178248",
+      "bytes": 1744,
+      "latest_method": "recorded_heredoc"
+    },
+    "src/styles.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "578cad52ba473727d9866a425590a5b75288088861046a7989e16226c659cff1",
+          "bytes": 3296
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 34,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "578cad52ba473727d9866a425590a5b75288088861046a7989e16226c659cff1",
+          "bytes": 3296,
+          "detail": {
+            "total_lines": 163,
+            "reported_bytes": 3296
+          }
+        }
+      ],
+      "sha256": "578cad52ba473727d9866a425590a5b75288088861046a7989e16226c659cff1",
+      "bytes": 3296,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/app.config.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "10c372c6d58218f8b70808b7c7f04f80c5dd5d26a9d4090e0083e5c13bcc3f6e",
+          "bytes": 553
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 39,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "10c372c6d58218f8b70808b7c7f04f80c5dd5d26a9d4090e0083e5c13bcc3f6e",
+          "bytes": 553,
+          "detail": {
+            "total_lines": 15,
+            "reported_bytes": 553
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 70,
+          "method": "recorded_write",
+          "sha256": "ddca2efc1d9816d7eca5ef4743469a74aa1ebe5b1ba27736eddb381eea89d23d",
+          "bytes": 724
+        }
+      ],
+      "sha256": "ddca2efc1d9816d7eca5ef4743469a74aa1ebe5b1ba27736eddb381eea89d23d",
+      "bytes": 724,
+      "latest_method": "recorded_write"
+    },
+    "src/app/app.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "6ad703d9bed13bc9123b5b214fcad3a451a8d8377d35e54b4705a3ba74adaec7",
+          "bytes": 1121
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 32,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "6ad703d9bed13bc9123b5b214fcad3a451a8d8377d35e54b4705a3ba74adaec7",
+          "bytes": 1121,
+          "detail": {
+            "total_lines": 37,
+            "reported_bytes": 1121
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 73,
+          "method": "recorded_write",
+          "sha256": "2804780ed85b6940690b80a167aeb60f9b08f3e976dd685e0cf1e28115d056c1",
+          "bytes": 1111
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 76,
+          "method": "verified_recorded_string_patch",
+          "sha256": "06443807d277160ddc7487fcbd8d59f18c31e9add7f32255ea689fb9fa7ebae8",
+          "bytes": 1123,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 76,
+          "method": "verified_recorded_string_patch",
+          "sha256": "76ca7220eacdbfdb09989be0f04519514e1af8d23c217f472328f19064996a5b",
+          "bytes": 1135,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 130,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "76ca7220eacdbfdb09989be0f04519514e1af8d23c217f472328f19064996a5b",
+          "bytes": 1135,
+          "detail": {
+            "total_lines": 37,
+            "reported_bytes": 1135
+          }
+        }
+      ],
+      "sha256": "76ca7220eacdbfdb09989be0f04519514e1af8d23c217f472328f19064996a5b",
+      "bytes": 1135,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/app.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "38a904b105eefd7588098b738bb85f2e179358a80d78e1879f2a4c9b94b9d223",
+          "bytes": 888
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 41,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "6d7c592d1eb4967891ba7e263dce5f0ea974a2f983161aa5244c63a7a9491f5e",
+          "bytes": 912,
+          "detail": {
+            "total_lines": 34,
+            "reported_bytes": 912
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 73,
+          "method": "recorded_write",
+          "sha256": "d1a113df94207d735b0618fd37baf41c54349e1caa810ae2f71aaaff6613656e",
+          "bytes": 964
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 132,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "d1a113df94207d735b0618fd37baf41c54349e1caa810ae2f71aaaff6613656e",
+          "bytes": 964,
+          "detail": {
+            "total_lines": 34,
+            "reported_bytes": 964
+          }
+        }
+      ],
+      "sha256": "d1a113df94207d735b0618fd37baf41c54349e1caa810ae2f71aaaff6613656e",
+      "bytes": 964,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/app.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "4951708be1e641630991ea44ff3f0e93598e74176b0702c78ebefd30a1b540d4",
+          "bytes": 1542
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 42,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "4951708be1e641630991ea44ff3f0e93598e74176b0702c78ebefd30a1b540d4",
+          "bytes": 1542,
+          "detail": {
+            "total_lines": 85,
+            "reported_bytes": 1542
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 79,
+          "method": "verified_recorded_string_patch",
+          "sha256": "42406479c14a935cddfe32ac5d41ed27fd3bd975f2f205e2c28ce14d590a3726",
+          "bytes": 1588,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 146,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "42406479c14a935cddfe32ac5d41ed27fd3bd975f2f205e2c28ce14d590a3726",
+          "bytes": 1588,
+          "detail": {
+            "total_lines": 87,
+            "reported_bytes": 1588
+          }
+        }
+      ],
+      "sha256": "42406479c14a935cddfe32ac5d41ed27fd3bd975f2f205e2c28ce14d590a3726",
+      "bytes": 1588,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "ngsw-config.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "1432cbd70fce46b74b766404acfd2cc4be2ce0bd7cc241980c3e4e9a70341a07",
+          "bytes": 490
+        }
+      ],
+      "sha256": "1432cbd70fce46b74b766404acfd2cc4be2ce0bd7cc241980c3e4e9a70341a07",
+      "bytes": 490,
+      "latest_method": "recorded_heredoc"
+    },
+    "public/manifest.webmanifest": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "recorded_heredoc",
+          "sha256": "6a0a08e0d7b4196e9d13f8df98a1e185fdf1c4c441c64b14623bd9d4c8f31edd",
+          "bytes": 668
+        }
+      ],
+      "sha256": "6a0a08e0d7b4196e9d13f8df98a1e185fdf1c4c441c64b14623bd9d4c8f31edd",
+      "bytes": 668,
+      "latest_method": "recorded_heredoc"
+    },
+    "src/app/features/reader/line-pair.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "recorded_heredoc",
+          "sha256": "2560f13805aedb3e60a93f14055c3bf1fdf7f7964e9b9950e0aadcf3a4bae030",
+          "bytes": 2313
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 22,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "609f61c13d9d91ec5df69f8845cbcff12e168ba7071f759aeee571a7fd6863ad",
+          "bytes": 2316,
+          "detail": {
+            "total_lines": 76,
+            "reported_bytes": 2316
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 136,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "609f61c13d9d91ec5df69f8845cbcff12e168ba7071f759aeee571a7fd6863ad",
+          "bytes": 2316,
+          "detail": {
+            "total_lines": 76,
+            "reported_bytes": 2316
+          }
+        }
+      ],
+      "sha256": "609f61c13d9d91ec5df69f8845cbcff12e168ba7071f759aeee571a7fd6863ad",
+      "bytes": 2316,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/line-pair.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "recorded_heredoc",
+          "sha256": "4f0212f856c8dcfc4f1213000c85fbb6983a1010844e1551c3096b7c277847c3",
+          "bytes": 1678
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 118,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "94efbd092f519fa71f45253124b30df518644f6438ef815051889b925c2b0372",
+          "bytes": 1760,
+          "detail": {
+            "total_lines": 66,
+            "reported_bytes": 1760
+          }
+        }
+      ],
+      "sha256": "94efbd092f519fa71f45253124b30df518644f6438ef815051889b925c2b0372",
+      "bytes": 1760,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/line-pair.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "recorded_heredoc",
+          "sha256": "e72e1fdd013ae25d7aa4db204cf309dc2d752ac2395cc1e87e469624e1ac0c52",
+          "bytes": 3303
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 120,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "6bc49b99625f89613ad3133734d5cec680060f3b462288f2b9f767feb00410c7",
+          "bytes": 3300,
+          "detail": {
+            "total_lines": 158,
+            "reported_bytes": 3300
+          }
+        }
+      ],
+      "sha256": "6bc49b99625f89613ad3133734d5cec680060f3b462288f2b9f767feb00410c7",
+      "bytes": 3300,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/reader.page.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "recorded_heredoc",
+          "sha256": "707497fb976ab491073a81bcf9560f0566bf59a9cb33e85a556ce4b26fd877f2",
+          "bytes": 2813
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 18,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "707497fb976ab491073a81bcf9560f0566bf59a9cb33e85a556ce4b26fd877f2",
+          "bytes": 2813,
+          "detail": {
+            "total_lines": 82,
+            "reported_bytes": 2813
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 60,
+          "method": "recorded_write",
+          "sha256": "95547bc976cea40a3c5dc3c8532f16d6f4cabc0c2c0bf69562e03cb128febb03",
+          "bytes": 3394
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 116,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "95547bc976cea40a3c5dc3c8532f16d6f4cabc0c2c0bf69562e03cb128febb03",
+          "bytes": 3394,
+          "detail": {
+            "total_lines": 99,
+            "reported_bytes": 3394
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 172,
+          "method": "verified_recorded_string_patch",
+          "sha256": "2747e2a7da7399ecdf17aa6240ea25dd773e936e7ad1e2e4c56cf8fa20790392",
+          "bytes": 3386,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 174,
+          "method": "verified_recorded_string_patch",
+          "sha256": "eea1c92fd4b031603646cb44067afedf2e6917fca2253c8254001ebec8e67476",
+          "bytes": 3351,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "eea1c92fd4b031603646cb44067afedf2e6917fca2253c8254001ebec8e67476",
+      "bytes": 3351,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/features/reader/reader.page.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "recorded_heredoc",
+          "sha256": "d527a3ca554e45a3f445615927f41c445b24ee32a33321ba3232b243e8761367",
+          "bytes": 2214
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 20,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "763a35b1fa9f2a9bee0ef895a0bd1f570485ded3adf4dfddc4f9d2a7ca5482e0",
+          "bytes": 2359,
+          "detail": {
+            "total_lines": 68,
+            "reported_bytes": 2359
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 62,
+          "method": "recorded_write",
+          "sha256": "885382f130443a17c3e2192d45a943fdd15cc54e7c7b3a8a8994ffde5953a584",
+          "bytes": 1934
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 117,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "885382f130443a17c3e2192d45a943fdd15cc54e7c7b3a8a8994ffde5953a584",
+          "bytes": 1934,
+          "detail": {
+            "total_lines": 58,
+            "reported_bytes": 1934
+          }
+        }
+      ],
+      "sha256": "885382f130443a17c3e2192d45a943fdd15cc54e7c7b3a8a8994ffde5953a584",
+      "bytes": 1934,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/reader.page.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "recorded_heredoc",
+          "sha256": "e8922cd52cb9db95a3d189932aaa7d892fe518d8789aa003c18923f609017e35",
+          "bytes": 1742
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 65,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "76ef1f985a654117cc0e8e3796d48944d613d3931374577b319e6172010e5718",
+          "bytes": 1806,
+          "detail": {
+            "total_lines": 108,
+            "reported_bytes": 1806
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 67,
+          "method": "verified_recorded_string_patch",
+          "sha256": "603a1da8587643fd529bd28d21d0bbb6f6b7eb62a2e46755a8ef366de2208a23",
+          "bytes": 2418,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 143,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "603a1da8587643fd529bd28d21d0bbb6f6b7eb62a2e46755a8ef366de2208a23",
+          "bytes": 2418,
+          "detail": {
+            "total_lines": 143,
+            "reported_bytes": 2418
+          }
+        }
+      ],
+      "sha256": "603a1da8587643fd529bd28d21d0bbb6f6b7eb62a2e46755a8ef366de2208a23",
+      "bytes": 2418,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/settings-controls.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "recorded_heredoc",
+          "sha256": "9f26f35a090b256ffaf2211315f5ef1d70a0c268aef11d55d30c904a4e544d30",
+          "bytes": 5064
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 28,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "9f26f35a090b256ffaf2211315f5ef1d70a0c268aef11d55d30c904a4e544d30",
+          "bytes": 5064,
+          "detail": {
+            "total_lines": 176,
+            "reported_bytes": 5064
+          }
+        }
+      ],
+      "sha256": "9f26f35a090b256ffaf2211315f5ef1d70a0c268aef11d55d30c904a4e544d30",
+      "bytes": 5064,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/settings-dialog.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "recorded_heredoc",
+          "sha256": "7dc70f4f9d3a2628120b086fa9fa5789bdb016160996bac9dbced8b5c7563e09",
+          "bytes": 1799
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 26,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "7dc70f4f9d3a2628120b086fa9fa5789bdb016160996bac9dbced8b5c7563e09",
+          "bytes": 1799,
+          "detail": {
+            "total_lines": 61,
+            "reported_bytes": 1799
+          }
+        }
+      ],
+      "sha256": "7dc70f4f9d3a2628120b086fa9fa5789bdb016160996bac9dbced8b5c7563e09",
+      "bytes": 1799,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/player-bar.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "recorded_heredoc",
+          "sha256": "ba8841701da2e3d2f797af9f246192ad735f531fe337c78a29dbe5e9bced1a00",
+          "bytes": 2478
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 25,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "d96207b8ff124427a77f80b0fef4d718bbacde39b16b099a82236da8752cfb07",
+          "bytes": 2518,
+          "detail": {
+            "total_lines": 82,
+            "reported_bytes": 2518
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 129,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "d96207b8ff124427a77f80b0fef4d718bbacde39b16b099a82236da8752cfb07",
+          "bytes": 2518,
+          "detail": {
+            "total_lines": 82,
+            "reported_bytes": 2518
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 180,
+          "method": "verified_recorded_string_patch",
+          "sha256": "712ef3d732d69c6eedae37c8fbd38656566f1a8908c0f6b58a576c341c67950f",
+          "bytes": 2523,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "712ef3d732d69c6eedae37c8fbd38656566f1a8908c0f6b58a576c341c67950f",
+      "bytes": 2523,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/features/reader/margin-panel.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "recorded_heredoc",
+          "sha256": "92467f7bc4638b84884f926820cd5bc012b20e01cb625249be0e8a0dd0d0c7b6",
+          "bytes": 4321
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 23,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "3c7736e53051aae4ed6fd2aa23a7d7a764bb9cdf53c73f817b0e94e47a18f7d0",
+          "bytes": 4625,
+          "detail": {
+            "total_lines": 165,
+            "reported_bytes": 4625
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 81,
+          "method": "verified_recorded_string_patch",
+          "sha256": "a2f2ae3a800340604c5f09888961f4d12a2ea539dacee1d429e06f95f9567c79",
+          "bytes": 4627,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 83,
+          "method": "verified_recorded_string_patch",
+          "sha256": "5c1a6b3a9ec7036d8f4963832dfb154064dfc3dddbecb4b2ebc51ac07d39ee1f",
+          "bytes": 4629,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 128,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "5c1a6b3a9ec7036d8f4963832dfb154064dfc3dddbecb4b2ebc51ac07d39ee1f",
+          "bytes": 4629,
+          "detail": {
+            "total_lines": 165,
+            "reported_bytes": 4629
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 178,
+          "method": "verified_recorded_string_patch",
+          "sha256": "26dcf4b4108e03642f8bc6e86fb6ed7510ee979052a1982afa27154111c96fd2",
+          "bytes": 4634,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "26dcf4b4108e03642f8bc6e86fb6ed7510ee979052a1982afa27154111c96fd2",
+      "bytes": 4634,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/features/reader/speaking-practice.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "recorded_heredoc",
+          "sha256": "c20f69e13ce791b9328edfab1983984c5079734e353c97a28f527c1a41138932",
+          "bytes": 4879
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 27,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "990eb1fee82b2b57c8a3c5ab2dc045395df6627f3cec4a7ccfa248cb70acb073",
+          "bytes": 4987,
+          "detail": {
+            "total_lines": 166,
+            "reported_bytes": 4987
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 126,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "990eb1fee82b2b57c8a3c5ab2dc045395df6627f3cec4a7ccfa248cb70acb073",
+          "bytes": 4987,
+          "detail": {
+            "total_lines": 166,
+            "reported_bytes": 4987
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 176,
+          "method": "verified_recorded_string_patch",
+          "sha256": "4d2538a3dae469a28fcd2cedb5ffc9cfa76f085d05791c8a97c1153d7bf20fc0",
+          "bytes": 4963,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "4d2538a3dae469a28fcd2cedb5ffc9cfa76f085d05791c8a97c1153d7bf20fc0",
+      "bytes": 4963,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/features/reader/tokenize.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "919b60011b69f1c9cdb459244915e38853008bd58cca8440ca6c99b04633d918",
+          "bytes": 2021
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 142,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "919b60011b69f1c9cdb459244915e38853008bd58cca8440ca6c99b04633d918",
+          "bytes": 2021,
+          "detail": {
+            "total_lines": 58,
+            "reported_bytes": 2021
+          }
+        }
+      ],
+      "sha256": "919b60011b69f1c9cdb459244915e38853008bd58cca8440ca6c99b04633d918",
+      "bytes": 2021,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/content/starter-stories/cafe-antes-del-codigo.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "0ee92dfb8d048353bf8e59670498c21b248d3eee4a79f336aaba5b20eca557b7",
+          "bytes": 973
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 101,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "0ee92dfb8d048353bf8e59670498c21b248d3eee4a79f336aaba5b20eca557b7",
+          "bytes": 973,
+          "detail": {
+            "total_lines": 28,
+            "reported_bytes": 973
+          }
+        }
+      ],
+      "sha256": "0ee92dfb8d048353bf8e59670498c21b248d3eee4a79f336aaba5b20eca557b7",
+      "bytes": 973,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/core/preferences.service.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "3a2ae8b85374298fb1fd7cdae0547f426eec0eb312ca7c59b48840224d6982e3",
+          "bytes": 2519
+        }
+      ],
+      "sha256": "3a2ae8b85374298fb1fd7cdae0547f426eec0eb312ca7c59b48840224d6982e3",
+      "bytes": 2519,
+      "latest_method": "recorded_heredoc"
+    },
+    "src/app/shared/audio/speech.service.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "c9d6747b2f5de562eb8b6fc2a8111a55b84369704f8ab58a79cb548e81f1af86",
+          "bytes": 1264
+        }
+      ],
+      "sha256": "c9d6747b2f5de562eb8b6fc2a8111a55b84369704f8ab58a79cb548e81f1af86",
+      "bytes": 1264,
+      "latest_method": "recorded_heredoc"
+    },
+    "src/app/features/reader/reader.store.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "0a1e0e45f02de096963254523a6951290e5b06025097cf4b0c4158399b03b27f",
+          "bytes": 3562
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 96,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "0a1e0e45f02de096963254523a6951290e5b06025097cf4b0c4158399b03b27f",
+          "bytes": 3562,
+          "detail": {
+            "total_lines": 109,
+            "reported_bytes": 3562
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 97,
+          "method": "recorded_write",
+          "sha256": "1db141194fce921563d288f64dd7c70ff529f3e8cdffb2a673c025ea9c5ab234",
+          "bytes": 4024
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 139,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "1db141194fce921563d288f64dd7c70ff529f3e8cdffb2a673c025ea9c5ab234",
+          "bytes": 4024,
+          "detail": {
+            "total_lines": 121,
+            "reported_bytes": 4024
+          }
+        }
+      ],
+      "sha256": "1db141194fce921563d288f64dd7c70ff529f3e8cdffb2a673c025ea9c5ab234",
+      "bytes": 4024,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/reader/line-pair.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "17785a162a95c8655db5e247317b55ca13c409362dfb38df5e004b306c725c71",
+          "bytes": 3063
+        },
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 632,
+          "method": "verified_recorded_string_patch",
+          "sha256": "dcf9c271e25bc892bb349a8e82d159f3585290cffd6bcac8c86e3e7017ebaac9",
+          "bytes": 3161
+        }
+      ],
+      "sha256": "dcf9c271e25bc892bb349a8e82d159f3585290cffd6bcac8c86e3e7017ebaac9",
+      "bytes": 3161,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/design.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "218aeae1ea4132ee84dfc724143906479a62e087c81ad1b51269c7d7ee5d3b5c",
+          "bytes": 4015
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 100,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "d7f4585c1500660c53abba837d927ccb75fb2f05f3e067e5d7d15e4e15c8bb77",
+          "bytes": 4036,
+          "detail": {
+            "total_lines": 106,
+            "reported_bytes": 4036
+          }
+        }
+      ],
+      "sha256": "d7f4585c1500660c53abba837d927ccb75fb2f05f3e067e5d7d15e4e15c8bb77",
+      "bytes": 4036,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/app.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "recorded_heredoc",
+          "sha256": "4f9549bb8619fde2d72e3c6fb677e893cee4c067a8ac4542a7d58a3b54eaebbf",
+          "bytes": 1556
+        }
+      ],
+      "sha256": "4f9549bb8619fde2d72e3c6fb677e893cee4c067a8ac4542a7d58a3b54eaebbf",
+      "bytes": 1556,
+      "latest_method": "recorded_heredoc"
+    },
+    "README.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 605,
+          "method": "recorded_heredoc",
+          "sha256": "9369692cf364ae6bdf2b7ba6cb36001d1c8089e4a61ccb1dfd2477e64764a474",
+          "bytes": 3572
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 7,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "9369692cf364ae6bdf2b7ba6cb36001d1c8089e4a61ccb1dfd2477e64764a474",
+          "bytes": 3572,
+          "detail": {
+            "total_lines": 63,
+            "reported_bytes": 3572
+          }
+        }
+      ],
+      "sha256": "9369692cf364ae6bdf2b7ba6cb36001d1c8089e4a61ccb1dfd2477e64764a474",
+      "bytes": 3572,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "docs/DECISIONES-TECNICAS.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 605,
+          "method": "recorded_heredoc",
+          "sha256": "a07456b6648a6b5173150a891527c3285a6e36868bc15cf51d3ecdd57ae9926f",
+          "bytes": 2752
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 13,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "9f283c73174a670fed4ea49ef1cbe27a6db5b45fa727efcf2e8fd819b6303f7e",
+          "bytes": 2736,
+          "detail": {
+            "total_lines": 41,
+            "reported_bytes": 2736
+          }
+        }
+      ],
+      "sha256": "9f283c73174a670fed4ea49ef1cbe27a6db5b45fa727efcf2e8fd819b6303f7e",
+      "bytes": 2736,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "archivo/angular-2026-09-20/docs/PLAN-MAESTRO.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 98,
+          "method": "archived_initial_snapshot",
+          "sha256": "c10b796df2315ab2f04cff82a52e73b466c1ffdef7095aa6dbd8161b320d7741",
+          "bytes": 4933,
+          "detail": {
+            "original_method": "complete_read_normalized_final_newline"
+          }
+        }
+      ],
+      "sha256": "c10b796df2315ab2f04cff82a52e73b466c1ffdef7095aa6dbd8161b320d7741",
+      "bytes": 4933,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/docs/ESTRUCTURA-FUTURA.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 100,
+          "method": "archived_initial_snapshot",
+          "sha256": "3c212ba95eebb30e3cdb66129e8d809d12bc89ba23b776e7a8881e85a3b330bd",
+          "bytes": 4460,
+          "detail": {
+            "original_method": "complete_read_normalized_final_newline"
+          }
+        }
+      ],
+      "sha256": "3c212ba95eebb30e3cdb66129e8d809d12bc89ba23b776e7a8881e85a3b330bd",
+      "bytes": 4460,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/docs/HOJA-DE-RUTA.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 102,
+          "method": "archived_initial_snapshot",
+          "sha256": "281d4c7bd927c35100326b538ebf903b7acd0ca759af0798902b5bd1c2748003",
+          "bytes": 3721,
+          "detail": {
+            "original_method": "complete_read_normalized_final_newline"
+          }
+        }
+      ],
+      "sha256": "281d4c7bd927c35100326b538ebf903b7acd0ca759af0798902b5bd1c2748003",
+      "bytes": 3721,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/docs/README.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 104,
+          "method": "archived_initial_snapshot",
+          "sha256": "d6e0519aadf4fc32196feaac51d88fa57089a221615cde7cba8e3255d6de9c5e",
+          "bytes": 816,
+          "detail": {
+            "original_method": "complete_read_normalized_final_newline"
+          }
+        }
+      ],
+      "sha256": "d6e0519aadf4fc32196feaac51d88fa57089a221615cde7cba8e3255d6de9c5e",
+      "bytes": 816,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/.gitignore": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 192,
+          "method": "archived_initial_snapshot",
+          "sha256": "65368081ae0c2c45a9c5dc13832070ea62ce7da64c03a1c128bebd7425634c6e",
+          "bytes": 244,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "65368081ae0c2c45a9c5dc13832070ea62ce7da64c03a1c128bebd7425634c6e",
+      "bytes": 244,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/angular.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "archived_initial_snapshot",
+          "sha256": "95ebe82cc7ae3994b6888582cb0fd4ac1cd674cbe8573802f6646beb4d900b04",
+          "bytes": 1921,
+          "detail": {
+            "original_method": "recorded_scaffold_output"
+          }
+        }
+      ],
+      "sha256": "95ebe82cc7ae3994b6888582cb0fd4ac1cd674cbe8573802f6646beb4d900b04",
+      "bytes": 1921,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/tsconfig.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "archived_initial_snapshot",
+          "sha256": "3c3b6c2138f0a910f5284e1d64e9fc213af2b91409fdeaf5598ff495c28f79c2",
+          "bytes": 908,
+          "detail": {
+            "original_method": "recorded_scaffold_output"
+          }
+        }
+      ],
+      "sha256": "3c3b6c2138f0a910f5284e1d64e9fc213af2b91409fdeaf5598ff495c28f79c2",
+      "bytes": 908,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/tsconfig.app.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "archived_initial_snapshot",
+          "sha256": "12e2786b56cc873a4e91f822894cc541082d16b90c0d7280aa5512469627d23f",
+          "bytes": 398,
+          "detail": {
+            "original_method": "recorded_scaffold_output"
+          }
+        }
+      ],
+      "sha256": "12e2786b56cc873a4e91f822894cc541082d16b90c0d7280aa5512469627d23f",
+      "bytes": 398,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/tsconfig.spec.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "archived_initial_snapshot",
+          "sha256": "958fd251a505c5d54d94d2694b8fde3d1c71aa244b522e3e053db1ac5b987dd0",
+          "bytes": 409,
+          "detail": {
+            "original_method": "recorded_scaffold_output"
+          }
+        }
+      ],
+      "sha256": "958fd251a505c5d54d94d2694b8fde3d1c71aa244b522e3e053db1ac5b987dd0",
+      "bytes": 409,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/main.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "archived_initial_snapshot",
+          "sha256": "2341253f1a947c37dfa27838951cf7e224f7abb32dff45a8d425f042b5eeed13",
+          "bytes": 222,
+          "detail": {
+            "original_method": "recorded_scaffold_output"
+          }
+        }
+      ],
+      "sha256": "2341253f1a947c37dfa27838951cf7e224f7abb32dff45a8d425f042b5eeed13",
+      "bytes": 222,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/.prettierrc": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 219,
+          "method": "archived_initial_snapshot",
+          "sha256": "8cd4a6408c3eadd007f0e8986754f4f03e6f2ea451a0181040555671491069a9",
+          "bytes": 161,
+          "detail": {
+            "original_method": "recorded_scaffold_output"
+          }
+        }
+      ],
+      "sha256": "8cd4a6408c3eadd007f0e8986754f4f03e6f2ea451a0181040555671491069a9",
+      "bytes": 161,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/public/favicon.svg": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 240,
+          "method": "archived_initial_snapshot",
+          "sha256": "81607dc272148e7a7dd62bb47c9e0ef68fc55f6d78e441e2d8b7ec8ef95f1b41",
+          "bytes": 436,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "81607dc272148e7a7dd62bb47c9e0ef68fc55f6d78e441e2d8b7ec8ef95f1b41",
+      "bytes": 436,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/public/icons/icon-512.png": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 250,
+          "method": "archived_initial_snapshot",
+          "sha256": "48a32515bb943d6c67fc32317be453ab7b1314d6addcd14a7bee15b6575859c7",
+          "bytes": 4111,
+          "detail": {
+            "original_method": "recorded_image_base64"
+          }
+        }
+      ],
+      "sha256": "48a32515bb943d6c67fc32317be453ab7b1314d6addcd14a7bee15b6575859c7",
+      "bytes": 4111,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/story.model.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "fe5a3cbaee3c4079fe4b13850702e8709a6b6d6304b8f371521351a0cbdcaf35",
+          "bytes": 1410,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "fe5a3cbaee3c4079fe4b13850702e8709a6b6d6304b8f371521351a0cbdcaf35",
+      "bytes": 1410,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/tokenize.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+          "bytes": 1028,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "15d7a5521f13286a74c52834d78f65f19059459df7524d8b50445b9e6b91faae",
+      "bytes": 1028,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/content/starter-stories/cafe-antes-del-codigo.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "9575186fabd19036fbbf29da20b3c4f3ddae88a8064d3a2ac9ef4a6cafc6ecd8",
+          "bytes": 2687,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "9575186fabd19036fbbf29da20b3c4f3ddae88a8064d3a2ac9ef4a6cafc6ecd8",
+      "bytes": 2687,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/core/storage.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "823010f7bfdb4bbe2e81ddf96b909df1380479e28cd0d453927fad8cce058a4b",
+          "bytes": 826,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "823010f7bfdb4bbe2e81ddf96b909df1380479e28cd0d453927fad8cce058a4b",
+      "bytes": 826,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/core/preferences.service.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "9023ff45dceeb55d6a1a49d4a0313a46df473e7732f79fa14581f5bfb3adf2a8",
+          "bytes": 3177,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "9023ff45dceeb55d6a1a49d4a0313a46df473e7732f79fa14581f5bfb3adf2a8",
+      "bytes": 3177,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/shared/audio/speech.service.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+          "bytes": 5019,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "11463f6541d83f246622ab48ac2e1fb0fc5ae39198666d6f56fba39d16dde1cf",
+      "bytes": 5019,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/reader.store.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 281,
+          "method": "archived_initial_snapshot",
+          "sha256": "59a9cb90b23c146e2b7c3d5d33d67335490a26ceb4f349314f07dbc21a032061",
+          "bytes": 4456,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "59a9cb90b23c146e2b7c3d5d33d67335490a26ceb4f349314f07dbc21a032061",
+      "bytes": 4456,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/index.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "5ea87e935698c01f25b8c0baf51107a37f9eb41121c41672369efbd064178248",
+          "bytes": 1744,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "5ea87e935698c01f25b8c0baf51107a37f9eb41121c41672369efbd064178248",
+      "bytes": 1744,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/styles.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "578cad52ba473727d9866a425590a5b75288088861046a7989e16226c659cff1",
+          "bytes": 3296,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "578cad52ba473727d9866a425590a5b75288088861046a7989e16226c659cff1",
+      "bytes": 3296,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/app.config.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "10c372c6d58218f8b70808b7c7f04f80c5dd5d26a9d4090e0083e5c13bcc3f6e",
+          "bytes": 553,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "10c372c6d58218f8b70808b7c7f04f80c5dd5d26a9d4090e0083e5c13bcc3f6e",
+      "bytes": 553,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/app.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "6ad703d9bed13bc9123b5b214fcad3a451a8d8377d35e54b4705a3ba74adaec7",
+          "bytes": 1121,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "6ad703d9bed13bc9123b5b214fcad3a451a8d8377d35e54b4705a3ba74adaec7",
+      "bytes": 1121,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/app.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "38a904b105eefd7588098b738bb85f2e179358a80d78e1879f2a4c9b94b9d223",
+          "bytes": 888,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "38a904b105eefd7588098b738bb85f2e179358a80d78e1879f2a4c9b94b9d223",
+      "bytes": 888,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/app.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "4951708be1e641630991ea44ff3f0e93598e74176b0702c78ebefd30a1b540d4",
+          "bytes": 1542,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "4951708be1e641630991ea44ff3f0e93598e74176b0702c78ebefd30a1b540d4",
+      "bytes": 1542,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/ngsw-config.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "1432cbd70fce46b74b766404acfd2cc4be2ce0bd7cc241980c3e4e9a70341a07",
+          "bytes": 490,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "1432cbd70fce46b74b766404acfd2cc4be2ce0bd7cc241980c3e4e9a70341a07",
+      "bytes": 490,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/public/manifest.webmanifest": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 289,
+          "method": "archived_initial_snapshot",
+          "sha256": "6a0a08e0d7b4196e9d13f8df98a1e185fdf1c4c441c64b14623bd9d4c8f31edd",
+          "bytes": 668,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "6a0a08e0d7b4196e9d13f8df98a1e185fdf1c4c441c64b14623bd9d4c8f31edd",
+      "bytes": 668,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/line-pair.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "archived_initial_snapshot",
+          "sha256": "2560f13805aedb3e60a93f14055c3bf1fdf7f7964e9b9950e0aadcf3a4bae030",
+          "bytes": 2313,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "2560f13805aedb3e60a93f14055c3bf1fdf7f7964e9b9950e0aadcf3a4bae030",
+      "bytes": 2313,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/line-pair.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "archived_initial_snapshot",
+          "sha256": "4f0212f856c8dcfc4f1213000c85fbb6983a1010844e1551c3096b7c277847c3",
+          "bytes": 1678,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "4f0212f856c8dcfc4f1213000c85fbb6983a1010844e1551c3096b7c277847c3",
+      "bytes": 1678,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/line-pair.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "archived_initial_snapshot",
+          "sha256": "e72e1fdd013ae25d7aa4db204cf309dc2d752ac2395cc1e87e469624e1ac0c52",
+          "bytes": 3303,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "e72e1fdd013ae25d7aa4db204cf309dc2d752ac2395cc1e87e469624e1ac0c52",
+      "bytes": 3303,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/reader.page.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "archived_initial_snapshot",
+          "sha256": "707497fb976ab491073a81bcf9560f0566bf59a9cb33e85a556ce4b26fd877f2",
+          "bytes": 2813,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "707497fb976ab491073a81bcf9560f0566bf59a9cb33e85a556ce4b26fd877f2",
+      "bytes": 2813,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/reader.page.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "archived_initial_snapshot",
+          "sha256": "d527a3ca554e45a3f445615927f41c445b24ee32a33321ba3232b243e8761367",
+          "bytes": 2214,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "d527a3ca554e45a3f445615927f41c445b24ee32a33321ba3232b243e8761367",
+      "bytes": 2214,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/reader.page.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 297,
+          "method": "archived_initial_snapshot",
+          "sha256": "e8922cd52cb9db95a3d189932aaa7d892fe518d8789aa003c18923f609017e35",
+          "bytes": 1742,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "e8922cd52cb9db95a3d189932aaa7d892fe518d8789aa003c18923f609017e35",
+      "bytes": 1742,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/settings-controls.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "archived_initial_snapshot",
+          "sha256": "9f26f35a090b256ffaf2211315f5ef1d70a0c268aef11d55d30c904a4e544d30",
+          "bytes": 5064,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "9f26f35a090b256ffaf2211315f5ef1d70a0c268aef11d55d30c904a4e544d30",
+      "bytes": 5064,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/settings-dialog.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "archived_initial_snapshot",
+          "sha256": "7dc70f4f9d3a2628120b086fa9fa5789bdb016160996bac9dbced8b5c7563e09",
+          "bytes": 1799,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "7dc70f4f9d3a2628120b086fa9fa5789bdb016160996bac9dbced8b5c7563e09",
+      "bytes": 1799,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/player-bar.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "archived_initial_snapshot",
+          "sha256": "ba8841701da2e3d2f797af9f246192ad735f531fe337c78a29dbe5e9bced1a00",
+          "bytes": 2478,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "ba8841701da2e3d2f797af9f246192ad735f531fe337c78a29dbe5e9bced1a00",
+      "bytes": 2478,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/margin-panel.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "archived_initial_snapshot",
+          "sha256": "92467f7bc4638b84884f926820cd5bc012b20e01cb625249be0e8a0dd0d0c7b6",
+          "bytes": 4321,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "92467f7bc4638b84884f926820cd5bc012b20e01cb625249be0e8a0dd0d0c7b6",
+      "bytes": 4321,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/speaking-practice.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 303,
+          "method": "archived_initial_snapshot",
+          "sha256": "c20f69e13ce791b9328edfab1983984c5079734e353c97a28f527c1a41138932",
+          "bytes": 4879,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "c20f69e13ce791b9328edfab1983984c5079734e353c97a28f527c1a41138932",
+      "bytes": 4879,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/tokenize.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "919b60011b69f1c9cdb459244915e38853008bd58cca8440ca6c99b04633d918",
+          "bytes": 2021,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "919b60011b69f1c9cdb459244915e38853008bd58cca8440ca6c99b04633d918",
+      "bytes": 2021,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/content/starter-stories/cafe-antes-del-codigo.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "0ee92dfb8d048353bf8e59670498c21b248d3eee4a79f336aaba5b20eca557b7",
+          "bytes": 973,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "0ee92dfb8d048353bf8e59670498c21b248d3eee4a79f336aaba5b20eca557b7",
+      "bytes": 973,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/core/preferences.service.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "3a2ae8b85374298fb1fd7cdae0547f426eec0eb312ca7c59b48840224d6982e3",
+          "bytes": 2519,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "3a2ae8b85374298fb1fd7cdae0547f426eec0eb312ca7c59b48840224d6982e3",
+      "bytes": 2519,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/shared/audio/speech.service.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "c9d6747b2f5de562eb8b6fc2a8111a55b84369704f8ab58a79cb548e81f1af86",
+          "bytes": 1264,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "c9d6747b2f5de562eb8b6fc2a8111a55b84369704f8ab58a79cb548e81f1af86",
+      "bytes": 1264,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/reader.store.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "0a1e0e45f02de096963254523a6951290e5b06025097cf4b0c4158399b03b27f",
+          "bytes": 3562,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "0a1e0e45f02de096963254523a6951290e5b06025097cf4b0c4158399b03b27f",
+      "bytes": 3562,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/features/reader/line-pair.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "17785a162a95c8655db5e247317b55ca13c409362dfb38df5e004b306c725c71",
+          "bytes": 3063,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "17785a162a95c8655db5e247317b55ca13c409362dfb38df5e004b306c725c71",
+      "bytes": 3063,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/design.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "218aeae1ea4132ee84dfc724143906479a62e087c81ad1b51269c7d7ee5d3b5c",
+          "bytes": 4015,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "218aeae1ea4132ee84dfc724143906479a62e087c81ad1b51269c7d7ee5d3b5c",
+      "bytes": 4015,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/src/app/app.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 449,
+          "method": "archived_initial_snapshot",
+          "sha256": "4f9549bb8619fde2d72e3c6fb677e893cee4c067a8ac4542a7d58a3b54eaebbf",
+          "bytes": 1556,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "4f9549bb8619fde2d72e3c6fb677e893cee4c067a8ac4542a7d58a3b54eaebbf",
+      "bytes": 1556,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/README.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 605,
+          "method": "archived_initial_snapshot",
+          "sha256": "9369692cf364ae6bdf2b7ba6cb36001d1c8089e4a61ccb1dfd2477e64764a474",
+          "bytes": 3572,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "9369692cf364ae6bdf2b7ba6cb36001d1c8089e4a61ccb1dfd2477e64764a474",
+      "bytes": 3572,
+      "latest_method": "archived_initial_snapshot"
+    },
+    "archivo/angular-2026-09-20/docs/DECISIONES-TECNICAS.md": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 605,
+          "method": "archived_initial_snapshot",
+          "sha256": "a07456b6648a6b5173150a891527c3285a6e36868bc15cf51d3ecdd57ae9926f",
+          "bytes": 2752,
+          "detail": {
+            "original_method": "recorded_heredoc"
+          }
+        }
+      ],
+      "sha256": "a07456b6648a6b5173150a891527c3285a6e36868bc15cf51d3ecdd57ae9926f",
+      "bytes": 2752,
+      "latest_method": "archived_initial_snapshot"
+    },
+    ".nvmrc": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 226,
+          "method": "reassembled_recorded_echo",
+          "sha256": "68ca3fba3b7e864770cb61aeb306d4bd4354b68ab4dd38450860c5d823e42a53",
+          "bytes": 3
+        }
+      ],
+      "sha256": "68ca3fba3b7e864770cb61aeb306d4bd4354b68ab4dd38450860c5d823e42a53",
+      "bytes": 3,
+      "latest_method": "reassembled_recorded_echo"
+    },
+    "package.json": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 35,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "b45e8cf6895f712fa832c7d67d217a8ddd2e23aa865f23ecccae9fc40112f9cf",
+          "bytes": 1165,
+          "detail": {
+            "total_lines": 41,
+            "reported_bytes": 1165
+          }
+        }
+      ],
+      "sha256": "b45e8cf6895f712fa832c7d67d217a8ddd2e23aa865f23ecccae9fc40112f9cf",
+      "bytes": 1165,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/content/starter-stories/contrasena-sin-red.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 47,
+          "method": "recorded_write",
+          "sha256": "ff70858d472912199753aed572df3508c3cd2cfbca4c25a8512b63b1f14503fa",
+          "bytes": 2355
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 149,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "ff70858d472912199753aed572df3508c3cd2cfbca4c25a8512b63b1f14503fa",
+          "bytes": 2355,
+          "detail": {
+            "total_lines": 68,
+            "reported_bytes": 2355
+          }
+        }
+      ],
+      "sha256": "ff70858d472912199753aed572df3508c3cd2cfbca4c25a8512b63b1f14503fa",
+      "bytes": 2355,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/content/starter-stories/equipo-en-linea.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 47,
+          "method": "recorded_write",
+          "sha256": "91a1e1cb6658c7cc7656392372a98e396855bf1e44a45a624a6b69b947060f87",
+          "bytes": 2511
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 150,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "91a1e1cb6658c7cc7656392372a98e396855bf1e44a45a624a6b69b947060f87",
+          "bytes": 2511,
+          "detail": {
+            "total_lines": 72,
+            "reported_bytes": 2511
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 159,
+          "method": "verified_recorded_string_patch",
+          "sha256": "25e2689d7d380f05fd9363f567da4febd0588b89d4f1a319e5e51e2b1a8f11ab",
+          "bytes": 2537,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "25e2689d7d380f05fd9363f567da4febd0588b89d4f1a319e5e51e2b1a8f11ab",
+      "bytes": 2537,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/content/starter-stories/el-primer-bug.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 47,
+          "method": "recorded_write",
+          "sha256": "48a8130bb57aef0d5cbdb9784d0b4975307170083fdf8b55c858f90f4686ac2c",
+          "bytes": 2683
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 153,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "48a8130bb57aef0d5cbdb9784d0b4975307170083fdf8b55c858f90f4686ac2c",
+          "bytes": 2683,
+          "detail": {
+            "total_lines": 72,
+            "reported_bytes": 2683
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 159,
+          "method": "verified_recorded_string_patch",
+          "sha256": "52086e6b1f0924088663960d08d5d202ef401f7be853f202500794aa42425057",
+          "bytes": 2701,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "52086e6b1f0924088663960d08d5d202ef401f7be853f202500794aa42425057",
+      "bytes": 2701,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/content/starter-stories/el-viaje-en-metro.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 47,
+          "method": "recorded_write",
+          "sha256": "31a5d05b94310d9213225398d07ff1ff3bfa892cc682b4c462f036436164c908",
+          "bytes": 2095
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 154,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "31a5d05b94310d9213225398d07ff1ff3bfa892cc682b4c462f036436164c908",
+          "bytes": 2095,
+          "detail": {
+            "total_lines": 64,
+            "reported_bytes": 2095
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 161,
+          "method": "verified_recorded_string_patch",
+          "sha256": "517905c424921e1d6a1a1474c82b2b8931d24992d131a8f765f5a31958e06975",
+          "bytes": 2137,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "517905c424921e1d6a1a1474c82b2b8931d24992d131a8f765f5a31958e06975",
+      "bytes": 2137,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/content/starter-stories/la-presentacion.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 47,
+          "method": "recorded_write",
+          "sha256": "24ebd4c085e11ade2dc10396fb222751f1b47eb8f7b504d36b70983c288e6dc5",
+          "bytes": 2666
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 155,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "24ebd4c085e11ade2dc10396fb222751f1b47eb8f7b504d36b70983c288e6dc5",
+          "bytes": 2666,
+          "detail": {
+            "total_lines": 72,
+            "reported_bytes": 2666
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 163,
+          "method": "recorded_write",
+          "sha256": "09e10d9abbb53a1601deee40449b3c51eb1f77cb4188f516076e5637cbda581c",
+          "bytes": 2584
+        }
+      ],
+      "sha256": "09e10d9abbb53a1601deee40449b3c51eb1f77cb4188f516076e5637cbda581c",
+      "bytes": 2584,
+      "latest_method": "recorded_write"
+    },
+    "src/app/content/starter-stories/la-api-que-no-responde.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 47,
+          "method": "recorded_write",
+          "sha256": "a393a69e3b79215838daca77d4a306d19e1b9d1e50caa2b6b17881620079b10f",
+          "bytes": 3068
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 157,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "a393a69e3b79215838daca77d4a306d19e1b9d1e50caa2b6b17881620079b10f",
+          "bytes": 3068,
+          "detail": {
+            "total_lines": 76,
+            "reported_bytes": 3068
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 166,
+          "method": "verified_recorded_string_patch",
+          "sha256": "921b555330a82dc752451cda593ab73f2f60c4ba847d4d694bf4ed26193b486f",
+          "bytes": 3065,
+          "detail": {
+            "anchor_count": 1
+          }
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 166,
+          "method": "verified_recorded_string_patch",
+          "sha256": "784a9b5085a4db6209b913041dc28e3a7de16ba91e96ff27cb3d3f3dfc1773fb",
+          "bytes": 3095,
+          "detail": {
+            "anchor_count": 1
+          }
+        }
+      ],
+      "sha256": "784a9b5085a4db6209b913041dc28e3a7de16ba91e96ff27cb3d3f3dfc1773fb",
+      "bytes": 3095,
+      "latest_method": "verified_recorded_string_patch"
+    },
+    "src/app/content/starter-stories/index.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 50,
+          "method": "recorded_write",
+          "sha256": "da284d25729049284cb0dacab8cdb01dbeb93798d95c16b1cb9fcb082db36d0c",
+          "bytes": 639
+        }
+      ],
+      "sha256": "da284d25729049284cb0dacab8cdb01dbeb93798d95c16b1cb9fcb082db36d0c",
+      "bytes": 639,
+      "latest_method": "recorded_write"
+    },
+    "src/app/core/library.service.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 50,
+          "method": "recorded_write",
+          "sha256": "cfa1e70f7bcf44a8bb8267a93fee6fc7702fbf674befd9a576f162805fc50855",
+          "bytes": 1096
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 122,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "cfa1e70f7bcf44a8bb8267a93fee6fc7702fbf674befd9a576f162805fc50855",
+          "bytes": 1096,
+          "detail": {
+            "total_lines": 34,
+            "reported_bytes": 1096
+          }
+        }
+      ],
+      "sha256": "cfa1e70f7bcf44a8bb8267a93fee6fc7702fbf674befd9a576f162805fc50855",
+      "bytes": 1096,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/library/library.page.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 54,
+          "method": "recorded_write",
+          "sha256": "c8adb9bd63b309643bfa0fa5274e08f1244b9ab6a4b800cad10c2ab5f9e99ee7",
+          "bytes": 2341
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 124,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "c8adb9bd63b309643bfa0fa5274e08f1244b9ab6a4b800cad10c2ab5f9e99ee7",
+          "bytes": 2341,
+          "detail": {
+            "total_lines": 65,
+            "reported_bytes": 2341
+          }
+        }
+      ],
+      "sha256": "c8adb9bd63b309643bfa0fa5274e08f1244b9ab6a4b800cad10c2ab5f9e99ee7",
+      "bytes": 2341,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/library/library.page.html": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 54,
+          "method": "recorded_write",
+          "sha256": "2121f5891329e7f7c6d5c9a5610efee1a0088c1f2074885e68ceb1b8a8e09973",
+          "bytes": 2339
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 125,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "2121f5891329e7f7c6d5c9a5610efee1a0088c1f2074885e68ceb1b8a8e09973",
+          "bytes": 2339,
+          "detail": {
+            "total_lines": 68,
+            "reported_bytes": 2339
+          }
+        }
+      ],
+      "sha256": "2121f5891329e7f7c6d5c9a5610efee1a0088c1f2074885e68ceb1b8a8e09973",
+      "bytes": 2339,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/features/library/library.page.css": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 54,
+          "method": "recorded_write",
+          "sha256": "b57687493368128ecd92aebfc1e23d2bea823a94c344bf3c005dbe628876056d",
+          "bytes": 2965
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 144,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "b57687493368128ecd92aebfc1e23d2bea823a94c344bf3c005dbe628876056d",
+          "bytes": 2965,
+          "detail": {
+            "total_lines": 179,
+            "reported_bytes": 2965
+          }
+        }
+      ],
+      "sha256": "b57687493368128ecd92aebfc1e23d2bea823a94c344bf3c005dbe628876056d",
+      "bytes": 2965,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/app.routes.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 70,
+          "method": "recorded_write",
+          "sha256": "9ebbe1599b15bc514778d9e28745c0f5fd96389d57c3874975d506e55c8635e8",
+          "bytes": 447
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 133,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "9ebbe1599b15bc514778d9e28745c0f5fd96389d57c3874975d506e55c8635e8",
+          "bytes": 447,
+          "detail": {
+            "total_lines": 21,
+            "reported_bytes": 447
+          }
+        }
+      ],
+      "sha256": "9ebbe1599b15bc514778d9e28745c0f5fd96389d57c3874975d506e55c8635e8",
+      "bytes": 447,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/app/content/starter-stories/stories.spec.ts": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 102,
+          "method": "recorded_write",
+          "sha256": "19dd52c9c4d4e02247f8624cd292b91dc9956c221a526ac5f02f01d55c4282a4",
+          "bytes": 3473
+        },
+        {
+          "source": "/Users/erickvzh/.gemini/antigravity-cli/brain/d0948fe3-2b02-41ea-9cfa-36948e0d2d20/.system_generated/logs/transcript_full.jsonl",
+          "jsonl_line": 140,
+          "method": "complete_read_verified_byte_count",
+          "sha256": "19dd52c9c4d4e02247f8624cd292b91dc9956c221a526ac5f02f01d55c4282a4",
+          "bytes": 3473,
+          "detail": {
+            "total_lines": 94,
+            "reported_bytes": 3473
+          }
+        }
+      ],
+      "sha256": "19dd52c9c4d4e02247f8624cd292b91dc9956c221a526ac5f02f01d55c4282a4",
+      "bytes": 3473,
+      "latest_method": "complete_read_verified_byte_count"
+    },
+    "src/fonts/LICENSE": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.npm/_cacache/content-v2/sha512/d4/9c/3bc6f39ca06c81f379710769c6e1b7cd6eab57dbf4d36dd87db0700e994d3ae12be649dba50ed039441bb925859feb87dd68a5fbc54fb3dc63b54f66c21c",
+          "jsonl_line": 0,
+          "method": "verified_local_package_asset",
+          "sha256": "9895ebc015226accf416b758ac1ca02a2fb4f83a89d316791ef697c3dc0852aa",
+          "bytes": 4506,
+          "detail": {
+            "tar_member": "package/LICENSE",
+            "package": "@fontsource-variable/literata@5.3.0"
+          }
+        }
+      ],
+      "sha256": "9895ebc015226accf416b758ac1ca02a2fb4f83a89d316791ef697c3dc0852aa",
+      "bytes": 4506,
+      "latest_method": "verified_local_package_asset"
+    },
+    "src/fonts/literata-latin-wght-italic.woff2": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.npm/_cacache/content-v2/sha512/d4/9c/3bc6f39ca06c81f379710769c6e1b7cd6eab57dbf4d36dd87db0700e994d3ae12be649dba50ed039441bb925859feb87dd68a5fbc54fb3dc63b54f66c21c",
+          "jsonl_line": 0,
+          "method": "verified_local_package_asset",
+          "sha256": "ab198d6616c7cc966f26a4a5b28a3977dc47439640f09d9b3361226bd465c404",
+          "bytes": 53728,
+          "detail": {
+            "tar_member": "package/files/literata-latin-wght-italic.woff2",
+            "package": "@fontsource-variable/literata@5.3.0"
+          }
+        }
+      ],
+      "sha256": "ab198d6616c7cc966f26a4a5b28a3977dc47439640f09d9b3361226bd465c404",
+      "bytes": 53728,
+      "latest_method": "verified_local_package_asset"
+    },
+    "src/fonts/literata-latin-wght-normal.woff2": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.npm/_cacache/content-v2/sha512/d4/9c/3bc6f39ca06c81f379710769c6e1b7cd6eab57dbf4d36dd87db0700e994d3ae12be649dba50ed039441bb925859feb87dd68a5fbc54fb3dc63b54f66c21c",
+          "jsonl_line": 0,
+          "method": "verified_local_package_asset",
+          "sha256": "9adbeac5b167fe5ad6c49d9e29aa0c76e2f1bb3b46bf4ebf12a9eca7d3525384",
+          "bytes": 52496,
+          "detail": {
+            "tar_member": "package/files/literata-latin-wght-normal.woff2",
+            "package": "@fontsource-variable/literata@5.3.0"
+          }
+        }
+      ],
+      "sha256": "9adbeac5b167fe5ad6c49d9e29aa0c76e2f1bb3b46bf4ebf12a9eca7d3525384",
+      "bytes": 52496,
+      "latest_method": "verified_local_package_asset"
+    },
+    "public/icons/icon-maskable-512.png": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 240,
+          "method": "reassembled_recorded_binary_copy",
+          "sha256": "48a32515bb943d6c67fc32317be453ab7b1314d6addcd14a7bee15b6575859c7",
+          "bytes": 4111,
+          "detail": "The original command copied the exact same 512px PNG to the maskable filename."
+        }
+      ],
+      "sha256": "48a32515bb943d6c67fc32317be453ab7b1314d6addcd14a7bee15b6575859c7",
+      "bytes": 4111,
+      "latest_method": "reassembled_recorded_binary_copy"
+    },
+    "public/icons/icon-192.png": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 240,
+          "method": "reconstructed_recorded_resize",
+          "sha256": "902453e6a49e1123813aadd3eb3cb1a2b88a61012bd6236504666a0fa3bbfd3d",
+          "bytes": 2673,
+          "detail": "Recreated from recovered icon-512.png using the recorded original sips -z 192 192 command; original bytes unavailable for comparison."
+        }
+      ],
+      "sha256": "902453e6a49e1123813aadd3eb3cb1a2b88a61012bd6236504666a0fa3bbfd3d",
+      "bytes": 2673,
+      "latest_method": "reconstructed_recorded_resize"
+    },
+    "public/icons/apple-touch-icon.png": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 240,
+          "method": "reconstructed_recorded_resize",
+          "sha256": "7e56c895e559d18cbc8b3ad1e43c8648185cf6b899d0798548693611458ec830",
+          "bytes": 2552,
+          "detail": "Recreated from recovered icon-512.png using the recorded original sips -z 180 180 command; original bytes unavailable for comparison."
+        }
+      ],
+      "sha256": "7e56c895e559d18cbc8b3ad1e43c8648185cf6b899d0798548693611458ec830",
+      "bytes": 2552,
+      "latest_method": "reconstructed_recorded_resize"
+    },
+    "src/fonts/LICENSE-Literata-OFL.txt": {
+      "history": [
+        {
+          "source": "/Users/erickvzh/.claude/projects/-Users-erickvzh-Desktop-Entre-lineas--claude-worktrees-project-redesign-polish-8f85c4/b403a33a-79b8-40a7-9e3f-8f5c33132b1d.jsonl",
+          "jsonl_line": 240,
+          "method": "reassembled_recorded_package_copy",
+          "sha256": "9895ebc015226accf416b758ac1ca02a2fb4f83a89d316791ef697c3dc0852aa",
+          "bytes": 4506,
+          "detail": "Exact cached Literata 5.3.0 license under the filename recorded by the original copy command."
+        }
+      ],
+      "sha256": "9895ebc015226accf416b758ac1ca02a2fb4f83a89d316791ef697c3dc0852aa",
+      "bytes": 4506,
+      "latest_method": "reassembled_recorded_package_copy"
+    },
+    "package-lock.json": {
+      "sha256": "9bd05d1c3d7dc87070ffd7cab14d2de0b2155d9db28d9679a14c0f86ce017fcc",
+      "bytes": 272303,
+      "latest_method": "reconstructed_offline_dependency_lock",
+      "history": [
+        {
+          "method": "reconstructed_offline_dependency_lock",
+          "sha256": "9bd05d1c3d7dc87070ffd7cab14d2de0b2155d9db28d9679a14c0f86ce017fcc",
+          "bytes": 272303,
+          "detail": "Original lockfile was not found. Generated offline from recovered package.json and local cached metadata; two compatible patch versions selected from cache. See dependencias-locales.json."
+        }
+      ]
+    }
+  },
+  "warnings": [
+    {
+      "line": 68,
+      "file": "src/app/features/reader/reader.page.css",
+      "reason": "patch anchor absent; not applied",
+      "resolution": "Superseded by a complete verified later read of reader.page.css at Gemini JSONL line 143; final file includes the patch."
+    }
+  ],
+  "recovered_on": "2026-11-02",
+  "summary": {
+    "active_project_files": 72,
+    "archived_files": 62,
+    "recorded_patches_applied": 16
+  }
+}

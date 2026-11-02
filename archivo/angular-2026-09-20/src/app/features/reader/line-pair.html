@@ -1,0 +1,53 @@
+<div
+  class="es-wrap"
+  [attr.data-mode]="mode()"
+  [attr.aria-hidden]="mode() === 'hidden' ? 'true' : null"
+  [attr.inert]="mode() === 'hidden' ? '' : null"
+>
+  <p
+    class="es"
+    lang="es"
+    [class.is-peeking]="peeking()"
+    [attr.tabindex]="mode() === 'veiled' ? 0 : null"
+    (pointerdown)="peeking.set(true)"
+    (pointerup)="peeking.set(false)"
+    (pointercancel)="peeking.set(false)"
+    (pointerleave)="peeking.set(false)"
+  >{{ line().es }}</p>
+</div>
+
+<button
+  type="button"
+  class="rail"
+  [attr.aria-label]="playing() ? 'Detener esta frase' : 'Escuchar esta frase'"
+  [attr.aria-pressed]="playing()"
+  (click)="play.emit(line().index)"
+>
+  @if (playing()) {
+    <svg class="icon" viewBox="0 0 12 12" aria-hidden="true"><rect x="2.5" y="2.5" width="7" height="7" rx="1" /></svg>
+  } @else {
+    <svg class="icon" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.8 10.2 6 3 10.2z" /></svg>
+  }
+  <span class="track" aria-hidden="true"><span class="fill" [style.--dur]="durationMs() + 'ms'"></span></span>
+</button>
+
+<p class="en" lang="en-US">
+  @for (segment of line().segments; track $index) {
+    @if (segment.word; as word) {
+      <span class="word-wrap">
+        <button
+          type="button"
+          class="word"
+          [attr.aria-expanded]="isOpen($index)"
+          [attr.aria-describedby]="isOpen($index) ? glossId($index) : null"
+          (click)="toggle($index, word)"
+        >{{ segment.text }}</button>
+        @if (isOpen($index)) {
+          <span class="gloss" role="note" appGlossClamp [id]="glossId($index)">{{ segment.gloss }}</span>
+        }
+      </span>
+    } @else {
+      <span>{{ segment.text }}</span>
+    }
+  }
+</p>

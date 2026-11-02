@@ -1,0 +1,13 @@
+✔ the reader begins with Spanish visible and can hide it (0.3145ms)
+✔ a highlighted story word returns only its Spanish meaning (0.067541ms)
+✔ the reader declares an installable offline experience (2.023542ms)
+✔ the reader uses the neutral editorial palette (0.500417ms)
+✔ offline cache version changes when the reader design changes (0.663959ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 38.695542

@@ -1,0 +1,20 @@
+{
+  "reconstructed": true,
+  "reason": "original package-lock not found; offline resolution from local cache; two cached patch versions satisfy parent dependency ranges",
+  "changes": [
+    {
+      "package": "wrap-ansi",
+      "generated_version": "10.0.2",
+      "cached_version": "10.0.1",
+      "integrity": "sha512-M0N4xzyzosiIok3svYlEo1sdLZts/8FPgYH/GPC3wvlmPoRvnoManGMrE54waYj3tISA8w6lsdesfVv67qSr8Q==",
+      "source": "/Users/erickvzh/.npm/_cacache/content-v2/sha512/33/43/78c73cb3a2c888a24decbd8944a35b1d2d9b6cffc14f8181ff18f0b7c2f9663e846f9e831a9c632b139e306988f7b48480f30ea5b1d7ac7d5bfaeea4abf1"
+    },
+    {
+      "package": "@hono/node-server",
+      "generated_version": "2.1.6",
+      "cached_version": "2.1.5",
+      "integrity": "sha512-MgP/I06GdvsilDspMk/qmRzpk8LOUStP6jFAbSRi40W09DhoyUn+Mj7eyKICPqeYKybOjVFLVIAQzvu1bfIa7Q==",
+      "source": "/Users/erickvzh/.npm/_cacache/content-v2/sha512/32/03/ff234e8676fb22943b29324fea991ce993c2ce512b4fea31406d2462e345b4f43868c949fe323edec8a2023ea7982b26ce8d514b548010cefbb56df21aed"
+    }
+  ]
+}

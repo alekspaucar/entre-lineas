@@ -1,0 +1,11 @@
+{
+  "name": "Entre líneas",
+  "short_name": "Entre líneas",
+  "description": "Inglés que se aprende leyendo historias.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101a26",
+  "theme_color": "#101a26",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
+

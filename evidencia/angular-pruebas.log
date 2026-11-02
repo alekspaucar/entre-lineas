@@ -1,0 +1,64 @@
+
+> entre-lineas@0.0.0 test:ci
+> ng test --no-watch
+
+❯ Building...
+✔ Building...
+Initial chunk files                                       | Names                                                  |  Raw size
+spec-app-features-reader-line-pair.js                     | spec-app-features-reader-line-pair                     |  21.99 kB | 
+chunk-O57LQTIZ.js                                         | -                                                      |  16.78 kB | 
+spec-app-app.js                                           | spec-app-app                                           |  10.37 kB | 
+spec-app-features-reader-reader.store.js                  | spec-app-features-reader-reader.store                  |   9.73 kB | 
+chunk-RI6RVWDR.js                                         | -                                                      |   4.18 kB | 
+chunk-CGZBV6BD.js                                         | -                                                      |   4.12 kB | 
+chunk-2AYEXM2L.js                                         | -                                                      |   3.67 kB | 
+spec-app-design.js                                        | spec-app-design                                        |   3.63 kB | 
+spec-app-content-starter-stories-stories.js               | spec-app-content-starter-stories-stories               |   3.62 kB | 
+styles.css                                                | styles                                                 |   3.02 kB | 
+chunk-T57K56AK.js                                         | -                                                      |   2.87 kB | 
+spec-app-core-preferences.service.js                      | spec-app-core-preferences.service                      |   2.74 kB | 
+init-testbed.js                                           | init-testbed                                           |   2.27 kB | 
+spec-app-features-reader-tokenize.js                      | spec-app-features-reader-tokenize                      |   2.17 kB | 
+spec-app-shared-audio-speech.service.js                   | spec-app-shared-audio-speech.service                   |   1.44 kB | 
+spec-app-content-starter-stories-cafe-antes-del-codigo.js | spec-app-content-starter-stories-cafe-antes-del-codigo |   1.27 kB | 
+vitest-mock-patch.js                                      | vitest-mock-patch                                      |   1.02 kB | 
+chunk-IEEY2JC5.js                                         | -                                                      | 745 bytes | 
+chunk-35LXXEU7.js                                         | -                                                      | 585 bytes | 
+
+                                                          | Initial total                                          |  96.23 kB
+
+Application bundle generation complete. [0.869 seconds] - 2026-11-02T16:51:08.345Z
+
+
+ RUN  v4.1.11 /Users/erickvzh/Documents/ChatGPT/ingeniero en sistemas/recuperacion/Entre-lineas
+
+ ❯ |entre-lineas| src/app/app.spec.ts (3 tests | 3 failed) 40ms
+     × muestra la historia completa: título y las doce frases en dos idiomas 33ms
+     × cambia entre apariencia clara y oscura y lo recuerda 4ms
+     × si el navegador no tiene voz, lo dice sin bloquear la lectura 3ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  |entre-lineas| src/app/app.spec.ts > App > muestra la historia completa: título y las doce frases en dos idiomas
+ FAIL  |entre-lineas| src/app/app.spec.ts > App > cambia entre apariencia clara y oscura y lo recuerda
+ FAIL  |entre-lineas| src/app/app.spec.ts > App > si el navegador no tiene voz, lo dice sin bloquear la lectura
+ɵNotFound: NG0201: No provider found for `ActivatedRoute`. Source: DynamicTestModule. Find more at https://v22.angular.dev/errors/NG0201
+ ❯ createRuntimeError ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_pending_tasks-chunk.mjs:569:17
+ ❯ NullInjector.get ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_pending_tasks-chunk.mjs:883:21
+ ❯ R3Injector.get ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_pending_tasks-chunk.mjs:1208:27
+ ❯ R3Injector.get ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_pending_tasks-chunk.mjs:1208:27
+ ❯ ChainedInjector.get ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:8112:32
+ ❯ lookupTokenUsingModuleInjector ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:597:31
+ ❯ getOrCreateInjectable ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:620:10
+ ❯ ɵɵdirectiveInject ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:8732:17
+ ❯ NodeInjectorFactory.RouterLink_Factory [as factory] ng:/RouterLink/ɵfac.js:5:92
+ ❯ getNodeInjectable ../../../ingeniero%20en%20sistemas/recuperacion/Entre-lineas/node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:751:38
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+
+ Test Files  1 failed | 8 passed (9)
+      Tests  3 failed | 81 passed (84)
+   Start at  11:51:08
+   Duration  1.17s (transform 246ms, setup 3.02s, import 228ms, tests 283ms, environment 5.26s)
+

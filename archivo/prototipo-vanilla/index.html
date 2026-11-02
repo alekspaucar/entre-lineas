@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101a26" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <title>Entre líneas · Inglés en historias</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="reader-shell">
+      <header class="topbar">
+        <a class="brand" href="#inicio" aria-label="Entre líneas, inicio">entre líneas<span>·</span></a>
+        <p>Tu lectura de hoy</p>
+        <button class="round-button" id="theme-toggle" aria-label="Cambiar apariencia">☼</button>
+      </header>
+
+      <section class="story-intro" id="inicio">
+        <div class="cover-art" role="img" aria-label="Ilustración nocturna de una cafetería, una laptop y una taza de café"></div>
+        <div class="story-heading">
+          <p class="kicker" id="story-level"></p>
+          <h1 id="story-title"></h1>
+          <p class="subtitle" id="story-subtitle"></p>
+          <div class="story-facts"><span>≈ <span id="story-minutes"></span> min</span><span>12 palabras en contexto</span></div>
+        </div>
+      </section>
+
+      <section class="reading-controls" aria-label="Controles de lectura">
+        <button class="text-button" id="spanish-toggle">Ocultar español</button>
+        <div class="voice-controls">
+          <button class="voice-button active" data-voice="female">Voz femenina</button>
+          <button class="voice-button" data-voice="male">Voz masculina</button>
+          <button class="listen-button" id="listen-button">Escuchar esta historia <span aria-hidden="true">↗</span></button>
+        </div>
+      </section>
+
+      <section class="story-lines" id="story-lines" aria-live="polite"></section>
+
+      <section class="after-reading" aria-labelledby="after-title">
+        <p class="kicker">Al cerrar el capítulo</p>
+        <h2 id="after-title">Dilo en voz alta.</h2>
+        <p>Sin respuestas perfectas: cuéntale a la historia qué harías tú si el servidor no respondiera.</p>
+        <button class="speak-button" id="speak-button">Empezar a hablar <span aria-hidden="true">●</span></button>
+        <p class="speech-status" id="speech-status" aria-live="polite"></p>
+      </section>
+    </main>
+
+    <dialog id="translation-dialog">
+      <button class="close-dialog" id="close-dialog" aria-label="Cerrar">×</button>
+      <p class="kicker">En esta historia</p>
+      <p class="translation" id="translation"></p>
+    </dialog>
+    <script type="module" src="app.mjs"></script>
+    <script>
+      if ('serviceWorker' in navigator) navigator.serviceWorker.register('./service-worker.js');
+    </script>
+  </body>
+</html>
+

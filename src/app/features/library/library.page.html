@@ -1,0 +1,67 @@
+<main class="library" id="biblioteca">
+
+  @if (lastStory(); as last) {
+    <section class="resume" aria-labelledby="resume-title">
+      <p class="kicker" id="resume-title">Continuar leyendo</p>
+      <a [routerLink]="['/leer', last.id]" class="resume-card">
+        <svg
+          class="vignette vignette--small"
+          viewBox="0 0 100 80"
+          role="img"
+          [attr.aria-label]="last.title"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path [attr.d]="vignette(last)" />
+        </svg>
+        <div class="resume-info">
+          <span class="resume-level">{{ last.level }} · {{ levelLabel[last.level] }}</span>
+          <strong class="resume-title-text">{{ last.title }}</strong>
+          <span class="resume-sub">{{ last.subtitle }}</span>
+        </div>
+        <svg class="arrow" viewBox="0 0 12 12" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5">
+          <path d="M2 6h8M6 2l4 4-4 4"/>
+        </svg>
+      </a>
+    </section>
+  }
+
+  <section aria-labelledby="library-title">
+    <h1 id="library-title" class="section-title">Historias</h1>
+    <p class="section-lead">Elige una historia por nivel. Cada una toma unos cinco minutos.</p>
+
+    <ul class="story-grid">
+      @for (story of library.stories; track story.id) {
+        <li>
+          <a [routerLink]="['/leer', story.id]" class="story-card">
+            <svg
+              class="vignette"
+              viewBox="0 0 100 80"
+              role="img"
+              [attr.aria-label]="'Portada: ' + story.title"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path [attr.d]="vignette(story)" />
+            </svg>
+            <div class="story-info">
+              <div class="story-meta">
+                <span class="badge">{{ story.level }}</span>
+                <span class="minutes">≈ {{ story.minutes }} min</span>
+              </div>
+              <h2 class="story-name">{{ story.title }}</h2>
+              <p class="story-sub">{{ story.subtitle }}</p>
+            </div>
+          </a>
+        </li>
+      }
+    </ul>
+  </section>
+
+</main>
